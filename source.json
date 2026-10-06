@@ -1,0 +1,27 @@
+{
+    "name": "LibreTV 开源直播订阅",
+    "version": 2,
+    "sources": [],
+    "liveSources": [
+      {
+        "name": "iptv-org 中国频道",
+        "url": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+        "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+      },
+      {
+        "name": "精选IPv4直播",
+        "url": "https://live.zbds.top/tv/iptv4.m3u",
+        "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+      },
+      {
+        "name": "国内全频道镜像",
+        "url": "https://shengcp.github.io/iptv-sources/o_s_cn.m3u",
+        "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+      },
+      {
+        "name": "CCTV+CGTN",
+        "url": "https://shengcp.github.io/iptv-sources/o_s_cn_cctv.m3u",
+        "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+      }
+    ]
+  }
