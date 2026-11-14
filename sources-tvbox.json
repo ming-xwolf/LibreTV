@@ -1,15 +1,6 @@
 {
   "sites": [
     {
-      "key": "shturl_cc",
-      "name": "豪华资源",
-      "type": 1,
-      "api": "https://shturl.cc/IPIXo21A4Q1LzsbItClJrdEwtbZ8iY",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "caiji_kuaichezy_org",
       "name": "快车资源",
       "type": 1,
@@ -91,28 +82,10 @@
       "filterable": 1
     },
     {
-      "key": "shturl_cc_2",
-      "name": "CK资源",
-      "type": 1,
-      "api": "https://shturl.cc/tN80cAwF4ItIaLjthbqZO3iRis",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "api_1080zyku_com",
       "name": "1080资源库",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/api_mac10.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "shturl_cc_3",
-      "name": "飘零资源",
-      "type": 1,
-      "api": "https://shturl.cc/lmNJ7KvAeiwMzTPSjrWHGPpMPYJC",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -190,15 +163,6 @@
       "filterable": 1
     },
     {
-      "key": "shturl_cc_4",
-      "name": "旺旺短剧",
-      "type": 1,
-      "api": "https://shturl.cc/jXeXtfU0wBrpjsL3x4aj5Ggx4u",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "api_wujinapi_me",
       "name": "无尽资源",
       "type": 1,
@@ -230,33 +194,6 @@
       "name": "最大资源",
       "type": 1,
       "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "shturl_cc_5",
-      "name": "魔都资源",
-      "type": 1,
-      "api": "https://shturl.cc/XB9CPErgujUy3lMCylhIS8kyPRsVOYYQTP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "shturl_cc_6",
-      "name": "魔爪资源",
-      "type": 1,
-      "api": "https://shturl.cc/UFQO224wfdUplStOfS6o9IBECHGluml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "shturl_cc_7",
-      "name": "豆瓣资源",
-      "type": 1,
-      "api": "https://shturl.cc/zsIHjL6qV83Lc1pwfhjT69M9Cm",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -298,37 +235,10 @@
       "filterable": 1
     },
     {
-      "key": "shturl_cc_8",
-      "name": "电影天堂资源",
-      "type": 1,
-      "api": "https://shturl.cc/nl8wqT1IOZNoNul5BABzkF9pCqQBTZmSIa4gVU",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "shturl_cc_9",
-      "name": "如意资源",
-      "type": 1,
-      "api": "https://shturl.cc/Lw2drYhrBuaWof7He9nmwtB4tWpXqNDq",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "jszyapi_com",
       "name": "极速资源",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "shturl_cc_10",
-      "name": "非凡影视",
-      "type": 1,
-      "api": "https://shturl.cc/CoqPLEByTovhbC77T2GS8QxQhK",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

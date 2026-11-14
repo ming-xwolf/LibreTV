@@ -1,0 +1,109 @@
+{
+  "name": "直播源历史归档（仅供查阅，不建议直接全量导入）",
+  "version": 2,
+  "histories": [
+    {
+      "label": "用户最初粘贴（2026-10-06）",
+      "status": "多数不可用：Gitee 423、epg.aptv 403、kilvn DNS 失败；去重后仅部分可拉列表",
+      "liveSources": [
+        {
+          "name": "iptv-org 中国频道",
+          "url": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+          "epg": "https://epg.aptv.app/pp.xml.gz"
+        },
+        {
+          "name": "央视频+移动(官方流)",
+          "url": "https://gitee.com/guyuexuan/iptv/raw/master/dist/iptv.m3u",
+          "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+        },
+        {
+          "name": "央视频单独源",
+          "url": "https://gitee.com/guyuexuan/iptv/raw/master/dist/ysp.m3u",
+          "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+        },
+        {
+          "name": "中国移动IPTV",
+          "url": "https://gitee.com/guyuexuan/iptv/raw/master/dist/china_mobile.m3u",
+          "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+        },
+        {
+          "name": "精选IPv4直播",
+          "url": "https://live.zbds.top/tv/iptv4.m3u",
+          "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+        },
+        {
+          "name": "国内全频道镜像",
+          "url": "https://shengcp.github.io/iptv-sources/o_s_cn.m3u",
+          "epg": "https://epg.aptv.app/pp.xml.gz"
+        },
+        {
+          "name": "CCTV+CGTN",
+          "url": "https://shengcp.github.io/iptv-sources/o_s_cn_cctv.m3u",
+          "epg": "https://epg.aptv.app/pp.xml.gz"
+        },
+        {
+          "name": "EPG备用节目单",
+          "url": "https://gitee.com/guyuexuan/iptv/raw/master/dist/iptv.m3u",
+          "epg": "https://live.kilvn.com/epg.xml.gz"
+        }
+      ]
+    },
+    {
+      "label": "仓库首次提交精简版（b902069）",
+      "status": "列表多可打开，但频道流大量过期/错链；zbds 的「广东卫视」曾指向短视频 mp4",
+      "liveSources": [
+        {
+          "name": "iptv-org 中国频道",
+          "url": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+          "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+        },
+        {
+          "name": "精选IPv4直播",
+          "url": "https://live.zbds.top/tv/iptv4.m3u",
+          "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+        },
+        {
+          "name": "国内全频道镜像",
+          "url": "https://shengcp.github.io/iptv-sources/o_s_cn.m3u",
+          "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+        },
+        {
+          "name": "CCTV+CGTN",
+          "url": "https://shengcp.github.io/iptv-sources/o_s_cn_cctv.m3u",
+          "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+        }
+      ]
+    },
+    {
+      "label": "2026-11 中间版（已废弃）",
+      "status": "YueChan/YanG 拉列表超时；范明明镜像里卫视频道多为移动 IPv6，Apple TV 上 403",
+      "liveSources": [
+        {
+          "name": "iptv-org 中国频道",
+          "url": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+          "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+        },
+        {
+          "name": "YueChan 综合直播",
+          "url": "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+          "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+        },
+        {
+          "name": "YanG 精选聚合",
+          "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+          "epg": "https://iptv.yang-1989.xyz/epg.xml.gz"
+        },
+        {
+          "name": "范明明 IPv6（ibert 镜像）",
+          "url": "https://m3u.ibert.me/fmml_ipv6.m3u",
+          "epg": "https://live.fanmingming.cn/e.xml"
+        },
+        {
+          "name": "iptv-org 香港频道",
+          "url": "https://iptv-org.github.io/iptv/countries/hk.m3u",
+          "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+        }
+      ]
+    }
+  ]
+}
